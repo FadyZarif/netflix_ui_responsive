@@ -15,5 +15,5 @@ Here is a demo of the project in desktop:
 Here is a demo of the project in mobile:
 
 <p align="center">
-  <img width="235" height="525" src="assets/desktop_demo.gif">
+  <img width="640" height="360" src="assets/desktop_demo.gif">
 </p>
