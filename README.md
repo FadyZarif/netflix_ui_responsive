@@ -1,16 +1,19 @@
-# netflix_ui
+# Netflix Responsive UI Flutter
 
-A new Flutter project.
+A UI clone of the Netflix site that i created using Flutter.
+To preview this site, follow this site: [Netflix](https://netflix.ishabrawy.com/)
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+Here is a demo of the project in desktop:
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img width="640" height="360" src="assets/mobile_demo.gif">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is a demo of the project in mobile:
+
+<p align="center">
+  <img width="235" height="525" src="assets/desktop_demo.gif">
+</p>

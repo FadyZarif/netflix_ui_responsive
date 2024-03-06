@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_statusbarcolor_ns/flutter_statusbarcolor_ns.dart';
 import 'package:netflix_ui/screens/screens.dart';
 
+import 'custom_scroll_behavior.dart';
 import 'screens/home_screen.dart';
 
 void main() {
@@ -17,6 +18,7 @@ class MyApp extends StatelessWidget {
     FlutterStatusbarcolor.setStatusBarColor(Colors.transparent);
 
     return MaterialApp(
+      scrollBehavior: MyCustomScrollBehavior(),
       debugShowCheckedModeBanner: false,
       title: 'NETFLIX UI',
       theme: ThemeData(
