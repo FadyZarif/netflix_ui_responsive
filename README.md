@@ -1,7 +1,7 @@
 # Netflix Responsive UI Flutter
 
 A UI clone of the Netflix site that i created using Flutter.
-To preview this site, follow this site: [Netflix](https://netflixui-demo.cowdlly.com)
+To preview this site, follow this site: [Netflix](https://orangered-stinkbug-505593.hostingersite.com)
 
 ## Demo
 
